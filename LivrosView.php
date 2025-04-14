@@ -3,7 +3,7 @@
 function exibirLivros($livros){
 
 
-echo "<h2> Lista de Livros:</h2> <ul>";
+echo "<ul>";
 
 foreach($livros as $livro){
 
